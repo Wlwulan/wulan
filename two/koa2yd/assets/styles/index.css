@@ -1,0 +1,11 @@
+/* css next */
+:root{
+    --bgColor:black;
+    --fontColor:yellowgreen;
+}
+body{
+    background: var(--bgColor)
+}
+h1,h2{
+    color: var(--fontColor)
+}

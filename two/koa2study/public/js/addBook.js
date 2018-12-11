@@ -1,0 +1,24 @@
+$(function(argument){
+    $("#submitBtn").click(function(e){
+        e.preventDefault()
+        $.ajax({
+            url:'/receiveDetail',
+            type:'get',
+            dataType:'json',
+            data:{
+                id:$("#id").val(),
+                bookName:$("#bookName").val(),
+                bookAuthor:$("#bookAuthor").val(),
+                date:$("#date").val(),
+                bookPage:$("#bookPage").val(),
+                bookKey:$("#bookKey").val()
+            },
+            success:function(data){
+                console.log(data)
+            },
+            error:function(){
+
+            }
+        })
+    })
+})

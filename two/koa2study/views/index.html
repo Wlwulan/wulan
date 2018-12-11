@@ -1,0 +1,47 @@
+{% extends './layout.html' %}
+{% block title %} {{title}} {% endblock %}
+{% block head %}
+<script type="text/javascript" src="js/index.js"></script>
+{% endblock %}
+{% block content %}
+    <div>
+        <h1>{{head}}</h1>
+        <button type="button" class="btn btn-success">
+            <a href="/addBook">新建</a>
+        </button>
+        <table class="table table-bordered">
+            <caption>边框表格布局</caption>
+            <thead>
+                <tr>
+                    <th>序列号</th>
+                    <th>书名</th>
+                    <th>作者</th>
+                    <th>日期</th>
+                    <th>页数</th>
+                    <th>关键字</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            {% for item in content %}
+            <tbody>
+                <tr>
+                    <td>{{item.id}}</td>
+                    <td>{{item.bookName}}</td>
+                    <td>{{item.bookAuthor}}</td>
+                    <td>{{item.date}}</td>
+                    <td>{{item.bookPage}}</td>
+                    <td>{{item.bookKey}}</td>
+                    <td>
+                        <a href="/index.php?r=books%2Fupdate&amp;id=1" title="Update" aria-label="Update" data-pjax="0">
+                            <span class="glyphicon glyphicon-pencil"></span>
+                        </a> 
+                        <a href="/index.php?r=books%2Fdelete&amp;id=1" title="Delete" aria-label="Delete" data-pjax="0" data-confirm="Are you sure you want to delete this item?" data-method="post">
+                            <span class="glyphicon glyphicon-trash"></span>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+            {% endfor %}
+        </table>
+     <div>
+{% endblock %}

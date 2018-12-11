@@ -1,0 +1,12 @@
+{
+    "apps":[
+        {
+            "name":"nodepm2",
+            "exec_mode":"cluster",
+            "script":"app.js",
+            "watch":true,
+            "instances":"max",
+            "out_file":"log/nodepm2.stdout.log"
+        }
+    ]
+}

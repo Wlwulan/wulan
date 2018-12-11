@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<div>
+    正在出价：<div id="datadiv"></div>
+</div>
+<body>
+    <script>
+    //    var source;
+    //    function init(argument) {
+    //        source = new EventSource('https://broker.invaluable.com/am2b/auction/ZABDYDJA9F/event')
+    //        //和服务器建立连接1连好，0没有，2已完成
+    //        source.onopen = function(){
+    //            console.log('连接已建立',this.readyState);
+    //        }
+    //        //用来接受方法
+    //        source.onmessage = function(event){
+    //            console.log('从服务器实时获取的数据',event.data)
+    //        }
+    //        source.onerror = function(){
+
+    //        }
+    //    } 
+    //    init()
+    var aaa = {"auctionId":"BSHW6SBDTM","auctionState":"InProgress","messageType":"GenericMessage","message":"Fair Warning!","timestamp":1543831245561,"sequence":1108,"items":[{"itemId":"134182628","askPrice":240,"currentBid":230,"currency":"AUD","messageType":"","message":"","itemState":"InProgress","currentWinner":"floor","lotNumber":"245","acceptedBidderId":"","acceptedApprovalId":"","paddle":"0","approvalId":"","submittedBid":0,"submittedBidPaddle":"","origCommand":"","currentWinnerBidType":"bidFloor","submittedBidType":""}],"errors":[{"errorCode":"","message":""}],"sourceId":0}
+    // alert(aaa.items[0].lotNumber)
+    if (window.EventSource) {
+        // 创建 EventSource 对象连接服务器
+        const source = new EventSource('https://broker.invaluable.com/am2b/auction/BSHW6SBDTM/event');
+
+        // 连接成功后会触发 open 事件
+        source.addEventListener('open', () => {
+            console.log('Connected');
+        }, false);
+
+        // 服务器发送信息到客户端时，如果没有 event 字段，默认会触发 message 事件
+        source.addEventListener('message', e => {
+            console.log(`data: ${e.data}`);
+            document.getElementById("datadiv").innerText+= "服务器数据:Lot" + JSON.parse(e.data).items[0].lotNumber + "出价:"+JSON.parse(e.data).items[0].currency+ JSON.parse(e.data).items[0].currentBid+ " \n";
+        }, false);
+
+        // 自定义 EventHandler，在收到 event 字段为 slide 的消息时触发
+        source.addEventListener('slide', e => {
+            console.log(`data: ${e.data}`); // => data: 7
+        }, false);
+
+        // 连接异常时会触发 error 事件并自动重连
+        source.addEventListener('error', e => {
+            if (e.target.readyState === EventSource.CLOSED) {
+            console.log('Disconnected');
+            } else if (e.target.readyState === EventSource.CONNECTING) {
+            console.log('Connecting...');
+            }
+        }, false);
+        } else {
+        console.error('Your browser doesn\'t support SSE');
+    }
+    </script>
+</body>
+</html>

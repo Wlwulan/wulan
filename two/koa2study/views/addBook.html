@@ -1,0 +1,36 @@
+{% extends './layout.html' %}
+{% block title %} {{title}} {% endblock %}
+{% block head %}
+<script type="text/javascript" src="js/addBook.js"></script>
+{% endblock %}
+{% block content %}
+    <div>
+        <form role="form">
+            <div class="form-group">
+                <label for="name">ID</label>
+                <input type="text" class="form-control" id="id" placeholder="请输入id">
+            </div>
+            <div class="form-group">
+                <label for="name">书名</label>
+                <input type="text" class="form-control" id="bookName" placeholder="请输入书名">
+            </div>
+            <div class="form-group">
+                <label for="name">作者</label>
+                <input type="text" class="form-control" id="bookAuthor" placeholder="请输入名称">
+            </div>
+            <div class="form-group">
+                <label for="name">data</label>
+                <input type="text" class="form-control" id="date" placeholder="请输入名称">
+            </div>
+            <div class="form-group">
+                <label for="name">页数</label>
+                <input type="text" class="form-control" id="bookPage" placeholder="请输入名称">
+            </div>
+            <div class="form-group">
+                <label for="name">key</label>
+                <input type="text" class="form-control" id="bookKey" placeholder="请输入名称">
+            </div>
+            <button type="submit" class="btn btn-default" id="submitBtn">提交</button>
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,14 @@
+[2018-12-02T21:53:20.340] [ERROR] cheese - ReferenceError: options is not defined
+    at Promise (/Users/yuanzhijia/Desktop/yd-books/utils/SafeRequest.js:19:29)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/yuanzhijia/Desktop/yd-books/utils/SafeRequest.js:11:16)
+    at Index.getData (/Users/yuanzhijia/Desktop/yd-books/models/Index.js:25:28)
+    at /Users/yuanzhijia/Desktop/yd-books/controllers/IndexController.js:13:40
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/middleawares/errorHandler.js:14:19)
+[2018-12-02T21:54:06.998] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-02T21:55:23.484] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-02T21:55:51.205] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
