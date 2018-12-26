@@ -1,0 +1,17 @@
+:root {
+    --bgColor: black;
+    --fontColor: orange;
+    --fontColor2:yellowgreen;
+}
+
+body {
+    background: var(--bgColor);
+}
+
+h1 {
+    color: var(--fontColor);
+}
+
+h2 {
+    color: var(--fontColor2);
+}
