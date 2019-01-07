@@ -1,0 +1,45 @@
+{% extends './layout.html' %}
+
+{% block title %}
+    图书列表
+{%endblock%}
+
+{% block head %}
+
+{% endblock %}
+
+{% block content %}
+    <x-clock></x-clock>
+    <ul>
+    {% for item in data %}
+        <li>[[ item.bookName ]]</li>
+    {% endfor %}
+    </ul>
+    <hr/>
+    <a href="">新建</a>
+{% endblock %}
+
+{% block scripts %}
+    <script>
+        console.log("我是首页")
+        xtag.create('x-clock', class extends XTagElement {
+            connectedCallback () {
+                this.start();
+            }
+            start (){
+                this.update();
+                this._interval = setInterval(() => this.update(), 1000);
+            }
+            stop (){
+                this._interval = clearInterval(this._data.interval);
+            }
+            update (){
+                this.textContent = new Date().toLocaleTimeString();
+            }
+            'tap::event' (){
+                if (this._interval) this.stop();
+                else this.start();
+            }
+        })
+    </script>
+{% endblock %}

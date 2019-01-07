@@ -7,6 +7,11 @@ let config = {
     "viewDir":join(__dirname,"..","views"),
     "staticDir":join(__dirname,"..","assets")
 }
+if(false){
+    console.log(11111)
+}
+
+
 if(process.env.NODE_ENV == "development"){
     const localConfig = {
         baseUrl:"http://localhost/index.php?r=",

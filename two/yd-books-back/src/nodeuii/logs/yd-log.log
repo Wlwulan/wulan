@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [2018-12-02T21:53:20.340] [ERROR] cheese - ReferenceError: options is not defined
     at Promise (/Users/yuanzhijia/Desktop/yd-books/utils/SafeRequest.js:19:29)
     at new Promise (<anonymous>)
@@ -13,7 +12,3 @@
 [2018-12-02T21:54:06.998] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
 [2018-12-02T21:55:23.484] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
 [2018-12-02T21:55:51.205] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
-[2018-12-12T23:10:26.379] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
-=======
-[2018-12-15T22:40:52.533] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
->>>>>>> 13e6018035b46b5abfd46c3bfbab66edf3c397cf

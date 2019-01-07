@@ -1,0 +1,83 @@
+.footer {
+  border-top: 1px solid #ddd;
+  width: 100%;
+  height: 483px;
+  background: #fff;
+  float: left; }
+  .footer .footer-box {
+    width: 1200px;
+    height: 355px;
+    margin: 0 auto; }
+    .footer .footer-box .help {
+      margin-left: 50px; }
+    .footer .footer-box .pubilc {
+      padding-top: 67px;
+      float: left; }
+      .footer .footer-box .pubilc h3 {
+        font-family: 'MicrosoftYaHei-Bold';
+        color: #333333;
+        font-weight: 600;
+        padding-right: 99px;
+        padding-bottom: 38px; }
+      .footer .footer-box .pubilc .qr-code {
+        float: left; }
+      .footer .footer-box .pubilc .list {
+        font-size: 14px;
+        font-family: 'MicrosoftYaHei';
+        color: #333333; }
+        .footer .footer-box .pubilc .list li {
+          line-height: 25px; }
+        .footer .footer-box .pubilc .list li:hover a {
+          color: #af8242; }
+        .footer .footer-box .pubilc .list .firm {
+          padding-bottom: 10px; }
+        .footer .footer-box .pubilc .list .list-item {
+          padding-left: 30px; }
+        .footer .footer-box .pubilc .list .address {
+          background: url(../../images/home/address.png) no-repeat;
+          background-size: 20px;
+          padding-bottom: 8px;
+          line-height: 20px; }
+        .footer .footer-box .pubilc .list .phone {
+          background: url(../../images/home/phone.png) no-repeat;
+          background-size: 20px;
+          padding-bottom: 8px; }
+        .footer .footer-box .pubilc .list .website {
+          background: url(../../images/home/website.png) no-repeat;
+          background-size: 20px; }
+    .footer .footer-box .solid {
+      width: 1px;
+      float: left;
+      margin: 0 123px 0 101px; }
+      .footer .footer-box .solid .line {
+        margin-top: 58px;
+        height: 228px;
+        background: #dddddd; }
+  .footer .footer-content {
+    width: 100%;
+    height: 288px;
+    margin: 0 auto;
+    background: #000000;
+    color: #FFFFFF;
+    text-align: center; }
+    .footer .footer-content ul {
+      display: -webkit-box;
+      width: 1200px;
+      margin: 0 auto;
+      border-bottom: 1px solid #333;
+      font-size: 20px; }
+      .footer .footer-content ul li {
+        -webkit-box-flex: 1;
+        line-height: 160px; }
+        .footer .footer-content ul li img {
+          padding-right: 2px;
+          vertical-align: middle; }
+        .footer .footer-content ul li .img1 {
+          padding-bottom: 3px; }
+    .footer .footer-content .one {
+      padding: 39px 0 10px;
+      font-size: 14px; }
+    .footer .footer-content .two {
+      font-size: 14px; }
+
+/*# sourceMappingURL=output.css.map */

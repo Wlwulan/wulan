@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h1 {
+  font-size: 20px; }
+
+body {
+  font-family: "微软雅黑";
+  color: #333; }
+
+notice {
+  background-color: green;
+  border: 2px solid #00aa00;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px; }
+
+.error, .seriousError {
+  border: 1px solid red;
+  background-color: #fdd; }
+
+.seriousError {
+  border-width: 3px; }
+
+/*# sourceMappingURL=index.css.map */

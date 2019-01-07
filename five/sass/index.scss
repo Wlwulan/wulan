@@ -1,0 +1,27 @@
+@import 'reset';
+$font:"微软雅黑";
+$color:#333;
+body{
+    font-family: $font;
+    color: $color;
+}
+//混合器
+@mixin rounded-corners($m){
+    -moz-border-radius: $m;
+    -webkit-border-radius: $m;
+    border-radius: $m;
+}
+notice {
+    background-color: green;
+    border: 2px solid #00aa00;
+    @include rounded-corners(10px)
+}
+//通过选择器继承继承样式
+.error {
+    border: 1px solid red;
+    background-color: #fdd;
+  }
+  .seriousError {
+    @extend .error;
+    border-width: 3px;
+  }
