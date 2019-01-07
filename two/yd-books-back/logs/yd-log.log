@@ -12,3 +12,4 @@
 [2018-12-02T21:54:06.998] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
 [2018-12-02T21:55:23.484] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
 [2018-12-02T21:55:51.205] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-12T23:10:26.379] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
