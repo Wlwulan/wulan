@@ -1,0 +1,34 @@
+@color:red;
+.test{
+    color: @color;
+    &:hover{
+        color:#003000;
+    }
+}
+h2{
+    color: @color
+}
+.rounded-corners(@radius:5px){
+    border-radius: @radius
+}
+@border:1px;
+@base-color:#333;
+@red:#842210;
+
+#header{
+    .rounded-corners;
+    color: @base-color*3;
+    border-left: @border;
+    border-right: @border*10;
+}
+#footer{
+    .rounded-corners(10px);
+    color: @base-color+ #003000;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background: @color;
+    margin: 5px;
+    border: 1px solid #000000;
+}

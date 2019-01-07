@@ -1,0 +1,26 @@
+.test {
+  color: red;
+}
+.test:hover {
+  color: #003000;
+}
+h2 {
+  color: red;
+}
+#header {
+  border-radius: 5px;
+  color: #999999;
+  border-left: 1px;
+  border-right: 10px;
+}
+#footer {
+  border-radius: 10px;
+  color: #336333;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 5px;
+  border: 1px solid #000000;
+}

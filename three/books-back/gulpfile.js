@@ -1,5 +1,5 @@
 //1.简单 快
-//2.webpack 前端打包工具 
+//2.webpack是 前端打包工具 
 const gulp = require("gulp");
 const babel = require("gulp-babel");
 const watch = require('gulp-watch');
