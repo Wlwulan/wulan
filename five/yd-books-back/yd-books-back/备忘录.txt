@@ -1,0 +1,19 @@
+//yd add pages
+1.先让用户输入一个新加的名字 
+books.html
+2.列举出components 所有的html
+需要哪些组件呢
+3.生成了一个 html entry.js
+4.pages里又新加了一个组件 
+5.yd update views
+分析用户html include
+6.yd add components
+先让用户选html 
+组件列出来
+
+=============
+yd init 
+yd add pages
+yd add components
+yd depoly (clinet:dev clinet:server)
+yd test (e2e ui service...)

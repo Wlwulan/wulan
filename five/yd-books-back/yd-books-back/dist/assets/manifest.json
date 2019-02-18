@@ -1,0 +1,11 @@
+{
+  "scripts/0.bundule.js": "/scripts/0.bundule.js",
+  "scripts/1.bundule.js": "/scripts/1.bundule.js",
+  "books-add.js": "/scripts/books-add.bundule.js",
+  "books-index.js": "/scripts/books-index.bundule.js",
+  "../components/add/add.html": "/../components/add/add.html",
+  "../components/banner/banner.html": "/../components/banner/banner.html",
+  "../components/list/list.html": "/../components/list/list.html",
+  "../views/books/pages/add.html": "/../views/books/pages/add.html",
+  "../views/books/pages/index.html": "/../views/books/pages/index.html"
+}

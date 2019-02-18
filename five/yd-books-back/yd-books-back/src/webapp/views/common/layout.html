@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{% block title %}标题{% endblock %}</title>
+    <!-- <link rel="Prefetch" href="/scripts/books-add.bundule.js" as="script"> -->
+    {% block head %}
+    <meta />
+    {% endblock %}
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.2.1/css/bootstrap.css">
+    {% block styles %}
+    css存放地方
+    {% endblock %}
+</head>
+
+<body>
+    {% block banner %}
+    这是头
+    {% endblock %}
+    <div class="container" id="app">
+        {% block content %}
+        真正的业务代码
+        {% endblock %}
+    </div>
+    <script id="activeJs"></script>
+    <script src="https://cdn.staticfile.org/x-tag/2.0.9-alpha/x-tag-raw.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.js"></script>
+    <script src="https://cdn.staticfile.org/jquery.pjax/2.0.1/jquery.pjax.js"></script>
+    <script>
+        //1.激活已有缓存
+        //1-1 判断一下过期了没
+        //2.如果没有先把script的url
+        // a:a.md5.js
+        // a.md5.js:js
+        // window.activeJs = function (url) {
+        //     //locforage
+        //     if(localStorage[url]){
+        //         $("#activeJs").html(localStorage[url]);
+        //     }else{
+        //         $("#activeJs").arrr("src",localStorage[url]);
+        //     }
+        // }
+        // function replace(url){
+        //     fetch(url).then(function(data){
+        //             localStorage[url] 
+        //         })
+        // }
+        $(document).pjax("a", "#app");
+    </script>
+    {% block scripts %}
+    js存放地方
+    {% endblock %}
+</body>
+
+</html>

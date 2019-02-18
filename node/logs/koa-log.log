@@ -1,0 +1,587 @@
+[2019-01-12T22:28:17.950] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-12T22:28:18.631] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-13T16:24:23.941] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:24:25.484] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:24:37.867] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:24:42.479] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:24:44.922] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:25:02.607] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:44.924] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:45.597] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:45.778] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:45.969] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:46.156] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:46.339] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T16:26:47.166] [ERROR] cheese - TypeError: Index is not a constructor
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:16:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:198:12)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-simple-router@0.2.0@koa-simple-router/index.js:138:21
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:15:13)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at app.use (/Users/pecoo/Desktop/wulan/node/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+[2019-01-13T17:08:32.842] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:08:35.127] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:08:58.383] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:09:03.892] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:09:07.144] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:09:53.482] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:09:55.322] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:09:58.355] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:11:04.322] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:11:06.615] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:11:08.938] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:11:10.753] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:11:14.348] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:12:54.503] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:13:06.428] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:16:16.953] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:16:20.706] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:16:26.472] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:16:28.463] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:25:27.120] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:25:31.377] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:30:59.498] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:42:42.056] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:42:44.310] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:42:46.139] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:42:47.880] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:42:49.513] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:43:54.660] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:50:54.107] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:52:33.005] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:59:43.476] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T17:59:45.009] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:01:31.191] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:01:33.586] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:01:36.277] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:01:38.212] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:02:22.355] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:02:25.889] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:04:52.173] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:04:54.120] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:04:58.385] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:25:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:06:46.809] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:06:48.695] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:18:39.307] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:19:38.379] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:20:34.358] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T18:22:45.110] [ERROR] cheese - ReferenceError: cheerio is not defined
+    at /Users/pecoo/Desktop/wulan/node/dist/controllers/BooksController.js:26:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[2019-01-13T21:02:37.937] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:735:9
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:02:38.039] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:02:39.468] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:02:40.148] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:02:40.318] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:03:08.709] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:03:09.448] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:04:43.413] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:15:01.016] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:15:01.652] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:15:01.829] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:15:02.015] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:15:02.202] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:16:14.128] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:16:14.788] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:16:14.983] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }
+[2019-01-13T21:16:15.187] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:537:13), <anonymous>:13:18)
+    at compiled (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:664:18)
+    at /Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/pecoo/Desktop/wulan/node/node_modules/_swig-templates@2.0.3@swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/pecoo/Desktop/wulan/node/node_modules/_thenify@3.3.0@thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/pecoo/Desktop/wulan/node/dist/views/books/components/banner/banner.html' }

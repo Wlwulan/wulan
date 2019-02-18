@@ -1,0 +1,13 @@
+{
+  "runtime.js": "/scripts/runtime.603fb.bundule.js",
+  "books-add.js": "/scripts/books-add.ce247.bundule.js",
+  "books-index.js": "/scripts/books-index.c75f6.bundule.js",
+  "styles/3.7e518.css": "/styles/3.7e518.css",
+  "scripts/3.95bd3.bundule.js": "/scripts/3.95bd3.bundule.js",
+  "../components/add/add.html": "/../components/add/add.html",
+  "../components/banner/banner.html": "/../components/banner/banner.html",
+  "../components/list/list.html": "/../components/list/list.html",
+  "../views/books/pages/add.html": "/../views/books/pages/add.html",
+  "../views/books/pages/index.html": "/../views/books/pages/index.html",
+  "../views/common/layout.html": "/../views/common/layout.html"
+}

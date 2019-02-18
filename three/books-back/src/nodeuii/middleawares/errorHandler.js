@@ -6,7 +6,8 @@ const errorHandler = {
             }catch(error){
                 logger.error(error);
                 ctx.status = error.status || 500;
-                ctx.body = await ctx.render("error");
+                // ctx.body = await ctx.render("error");
+                ctx.body = error
             }
         });
         app.use(async(ctx,next)=>{

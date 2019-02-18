@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    
+    <!-- Don't use this in production: -->
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- <script type="text/babel">
+        var Style = {
+            color:'red',
+            'fontSize':38
+        }
+        class HelloMessage extends React.Component{
+          render(){
+            var commentNodes = this.props.name.map(function (value,datakey) {
+                return <div key={datakey}>{value}</div>
+            })
+            return(
+                <div>{commentNodes}</div>
+                // <div style={Style}>
+                //     <label htmlFor="uname">测试</label>
+                //     <input ref="uname" id="uname" type="text"/>
+                //     <h1 onClick={this.handle} className="h1">{this.props.name}</h1>
+                // </div>
+            )
+          }
+      }
+      var rawHTML = {
+          __html:"<h2>dom</h2>"
+      }
+      var propsName = {
+          name1:'aa',
+          name2:'bb'
+      }
+      ReactDOM.render(
+          <HelloMessage name={["yideng","lalan"]}/>,
+        // <div dangerouslySetInnerHTML = {rawHTML}></div>,
+          document.getElementById('root')
+      )
+
+    </script> -->
+    <script type="text/babel">
+        class HelloMessage extends React.Component{
+            getDefaultProps(){
+                console.log("初始化默认的属性");
+                return{
+                    name:'133'
+                }
+            },
+            render(){
+                return (
+                    <h1>{this.props.name}</h1>
+                )
+            }
+        }
+        ReactDOM.render(
+            <HelloMessage name="test"/>,
+            document.getElementById('root')
+        )
+    </script>
+  </body>
+</html>

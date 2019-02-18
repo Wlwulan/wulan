@@ -34,12 +34,11 @@ class Index{
      * getData(url,options)
      * */
     saveData(options){
-        const safeRequest = new SafeRequest("books/create",{
-            methods:'POST',
+        const safeRequest = new SafeRequest("books/create");
+        return safeRequest.fetch({
+            method: 'POST',
             params:options.params
         });
-        console.log(options.params)
-        return safeRequest.fetch({})
     }
 }
 module.exports = Index

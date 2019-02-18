@@ -1,0 +1,11 @@
+:root{
+    --heightUnit:70px;
+}
+.components-banner{
+    height:70px;
+    height:var(--heightUnit);
+    background: red
+}
+.components-banner .navDiv{
+        color: #abcdef
+    }

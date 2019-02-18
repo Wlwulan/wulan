@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //   function Base(){
+        //     this.sex=0;
+        //     this.name=name || "base";
+        //     this.hello=function(){
+        //         console.log("hello "+ name);
+        //     };
+        // }
+        // Base.prototype.say=function(){
+        //     console.log('name'+this.name);
+        // }
+        // function Extend (name,num){
+        //     Base.call(this,name);
+        //     this.num= num || 0;
+        // }
+        // Extend.prototype=new Base();
+        // Extend.prototype.constructor=Extend;
+        // var one =new Extend('one',2);
+        // console.log(Extend.__proto__)  
+        // one.hello()
+        var A = function(){}
+        A.prototype = {}
+        var a = new A()
+        console.log(a)
+        A.prototype = {}
+        var b= new A()
+        console.log(a instanceof A)
+        console.log(b instanceof A)
+        function yd(){
+            getName = function(){
+                console.log(1)
+            }
+            return this
+        }
+        new new yd()
+    </script>
+</body>
+</html>

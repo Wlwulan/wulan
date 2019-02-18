@@ -1,0 +1,708 @@
+[2018-12-14T21:48:47.466] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-14T21:49:43.359] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-14T21:49:45.038] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-14T21:49:45.233] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2018-12-31T21:53:00.232] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/pages/list.html'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/pages/list.html' }
+[2018-12-31T21:53:54.679] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T21:53:55.592] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T21:53:55.771] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T21:54:22.550] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:11:56.953] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:12:55.360] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:12:56.610] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:12:56.806] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:12:56.974] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:13:13.691] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.parseFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:403:31)
+    at getParents (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:480:14)
+    at exports.Swig.precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:527:19)
+    at exports.Swig.compile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:651:16)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:729:27
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/books/common/layout.html' }
+[2018-12-31T22:14:06.668] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:537:13), <anonymous>:15:18)
+    at compiled (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:664:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:604:20
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:735:9
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html' }
+[2018-12-31T22:14:07.918] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:537:13), <anonymous>:15:18)
+    at compiled (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:664:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/yuanzhijia/Desktop/yd-books/node_modules/thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html' }
+[2018-12-31T22:14:08.115] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:537:13), <anonymous>:15:18)
+    at compiled (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:664:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/yuanzhijia/Desktop/yd-books/node_modules/thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html' }
+[2018-12-31T22:14:32.095] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at Object.ret.load (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/loaders/filesystem.js:59:15)
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:740:31)
+    at Object.eval [as tpl] (eval at precompile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:537:13), <anonymous>:15:18)
+    at compiled (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:664:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:604:20
+    at exports.Swig.compileFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:714:9)
+    at renderFile (/Users/yuanzhijia/Desktop/yd-books/node_modules/swig-templates/lib/swig.js:595:12)
+    at eval (eval at thenify (/Users/yuanzhijia/Desktop/yd-books/node_modules/thenify/index.js:17:10), <anonymous>:10:12)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/components/banner/list/list.html' }
+[2019-01-08T20:06:29.735] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/index.html'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/index.html' }
+[2019-01-08T20:06:40.361] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-08T20:07:37.451] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-08T20:08:46.301] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-08T20:08:48.106] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-08T20:09:10.668] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-08T22:16:09.551] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:16:26.642] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:16:26.675] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:16:59.387] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:16:59.432] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:20:40.245] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:21:01.268] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/views/index.html'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/yuanzhijia/Desktop/yd-books/dist/views/index.html' }
+[2019-01-08T22:21:13.336] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:21:13.382] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:22:06.274] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:22:06.294] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:22:36.864] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:22:36.936] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:22:38.289] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:10.939] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:10.969] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:11.907] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:12.574] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:12.906] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-08T22:23:13.239] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:45:15
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:16:13)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/yuanzhijia/Desktop/yd-books/dist/middleawares/errorHandler.js:7:15)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:42:32)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-compose/index.js:34:12
+[2019-01-18T20:43:33.965] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:35.615] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:35.806] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:36.249] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:36.409] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:36.591] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:36.779] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:43:36.954] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:32.868] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:34.286] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:34.456] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:34.637] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:34.809] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:35.204] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:35.414] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:35.597] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:35.782] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:35.967] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:36.139] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:44:36.367] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T20:45:00.367] [ERROR] cheese - AwilixResolutionError: Could not resolve 'bookService'.
+
+Resolution path: bookService
+    at resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:231:23)
+    at Object.get (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:63:32)
+    at new BooksController (/Users/yuanzhijia/Desktop/yd-books/dist/controllers/BooksController.js:21:5)
+    at newClass (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:85:24)
+    at Object.resolve (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/resolvers.js:291:20)
+    at Object.build (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix/lib/container.js:292:37)
+    at memberInvoker (/Users/yuanzhijia/Desktop/yd-books/node_modules/awilix-koa/lib/invokers.js:83:38)
+    at dispatch (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/yuanzhijia/Desktop/yd-books/node_modules/koa-router/lib/router.js:346:16
+[2019-01-18T21:38:51.808] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-18T21:38:54.922] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }
+[2019-01-18T21:39:00.263] [ERROR] cheese - { code: 1, message: 'node-fetch请求失败，后端报警!', data: [] }

@@ -6,8 +6,8 @@ const params = new URLSearchParams()
 //     "Books[name]":'测试数据',
 //     "Books[author]":'测试作者',
 // }
-params.append("Books[bookName]","测试数据")
-params.append("Books[bookAuthor]","测试作者")
+params.append("Books[name]","测试数据")
+params.append("Books[author]","测试作者")
 fetch('http://localhost/index.php?r=books/create',{
     method:'POST',
     body:params
